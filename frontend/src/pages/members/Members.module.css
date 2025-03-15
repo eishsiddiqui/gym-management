@@ -1,0 +1,10 @@
+.titleWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+}
+
+.title {
+    margin: 0
+}

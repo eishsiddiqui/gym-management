@@ -1,0 +1,9 @@
+.deleteIcon {
+    cursor: pointer;
+    color: #ff4d4f;
+}
+
+.searchBar{
+    width: 300px;
+    margin-bottom: 10px;
+}

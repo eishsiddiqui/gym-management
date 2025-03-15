@@ -1,0 +1,13 @@
+.deleteIcon {
+    cursor: pointer;
+    color: #ff4d4f;
+}
+
+.editIcon {
+    cursor: pointer;
+}
+
+.searchBar{
+    width: 300px;
+    margin-bottom: 10px;
+}

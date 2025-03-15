@@ -1,0 +1,18 @@
+.deleteIcon {
+    cursor: pointer;
+    color: #ff4d4f;
+}
+
+.editIcon {
+    cursor: pointer;
+}
+
+.searchBar{
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.buttonGroup {
+    display: flex;
+    justify-content: space-between; /* Place buttons at opposite ends */
+  }
