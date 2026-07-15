@@ -69,19 +69,3 @@ npm install
   ```
 - The frontend will be accessible at `http://localhost:5173`.
 
-## 📂 Project Structure
-
-```
-gym-management-main/
-├── backend/                  # Node.js + Express API
-│   ├── index.js              # Entry point
-│   ├── package.json
-│   └── ...                   # Routes, Controllers, Database config
-└── frontend/                 # React frontend (Vite)
-    ├── package.json
-    └── src/
-        ├── components/       # Reusable UI components & layouts
-        ├── pages/            # View components (Members, Employees, etc.)
-        └── App.jsx           # Main React component
-```
-
